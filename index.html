@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Manvir Enterprises</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+
+  <div class="cursor-circle">
+    <span>Click to visit</span>
+  </div>
+
+</head>
+
+<body>
+
+  <header>
+    <a href="index.html" class="logo">
+      <img src="images/logo icon.png" alt="Manvir Enterprises Logo">
+    </a>
+
+    <nav>
+      <a href="#home" data-k="home"></a>
+      <a href="#about" data-k="about"></a>
+      <a href="#contact" data-k="contact"></a>
+
+    </nav>
+
+    <div class="lang">
+      <button onclick="setLang('en')">EN</button>
+      <button onclick="setLang('hi')">HI</button>
+      <button onclick="setLang('gu')">GU</button>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <div class="hero" id="home">
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+
+    <h1>MANVIR ENTERPRISES</h1>
+    <h2 data-k="heroTitle"></h2>
+    <p data-k="heroText"></p>
+    <button data-k="explore"></button>
+
+    <div class="cards">
+
+      <a href="vegetables.html" class="card">
+        <img src="images/vegetables trans.png" alt="Vegetables">
+        <h3 data-k="veg"></h3>
+      </a>
+
+      <a href="fruits.html" class="card">
+        <img src="images/fruits tran.png" alt="Fruits">
+        <h3 data-k="fruit"></h3>
+      </a>
+
+      <a href="agriculture.html" class="card">
+        <img src="images/agriculture.png" alt="Agriculture">
+        <h3 data-k="agri"></h3>
+      </a>
+
+    </div>
+
+  </div>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="about-container">
+      <div class="about-text">
+        <h2 class="title">About Manvir Enterprises</h2>
+        <p class="text">
+          At Manvir Enterprises, we bring the finest <strong>fruits, vegetables, and agricultural seeds</strong>
+          directly from farms to your hands.
+          We believe in <strong>quality, freshness, and sustainable farming</strong>, delivering products that nurture
+          growth and health.
+          Join us in creating a better tomorrow for farmers and families alike.
+        </p>
+      </div>
+
+      <div class="about-cards">
+        <div class="abt-card card-1">
+          <img src="images/vegetables trans.png" alt="Vegetables">
+        </div>
+        <div class="abt-card card-2">
+          <img src="images/fruits tran.png" alt="Fruits">
+        </div>
+        <div class="abt-card card-3">
+          <img src="images/agriculture.png" alt="Agriculture Seeds">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-container">
+      <div class="contact-text">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to partner with us? Fill out the form and we'll get back to you shortly.</p>
+        <div class="contact-info">
+          <div><strong>Email:</strong> BLANK NOW</div>
+          <div><strong>Phone:</strong> BLANK NOW </div>
+          <div><strong>Address:</strong> BLANK NOW</div>
+        </div>
+      </div>
+
+      <form class="contact-form" id="contactForm">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="text" name="subject" placeholder="Subject" required>
+        <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+        <p class="form-status" id="formStatus"></p>
+      </form>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p class="copyright">
+        © <span id="year"></span> <strong>Manvir Enterprises</strong>. All Rights Reserved.
+      </p>
+
+      <p class="dev-credit">
+        Designed & Developed with ❤️ by
+        <a href="https://wa.me/91XXXXXXXXXX" target="_blank">Jay (Developer)</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+
+
+  <script src="script/script.js"></script>
+
+</body>
+
+</html>
