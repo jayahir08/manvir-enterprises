@@ -46,21 +46,21 @@ const translations = {
     /* POTATO */
     veg_potato_name: "Potato",
     veg_potato_desc: "A versatile staple vegetable used daily.",
-    veg_potato_origin: "South America",
+    veg_potato_origin: "India",
     veg_potato_season: "All Year",
     veg_potato_use: "Curry, Fry",
 
     /* ONION */
     veg_onion_name: "Onion",
     veg_onion_desc: "Adds flavor and aroma to every dish.",
-    veg_onion_origin: "Central Asia",
+    veg_onion_origin: "India",
     veg_onion_season: "All Year",
     veg_onion_use: "Curry Base, Salad",
 
     /* TOMATO */
     veg_tomato_name: "Tomato",
     veg_tomato_desc: "Juicy vegetable used in cooking and salads.",
-    veg_tomato_origin: "South America",
+    veg_tomato_origin: "India",
     veg_tomato_season: "Winter – Summer",
     veg_tomato_use: "Curry, Sauce",
 
@@ -74,14 +74,14 @@ const translations = {
     /* OKRA */
     veg_okra_name: "Okra",
     veg_okra_desc: "Healthy green vegetable with soft texture.",
-    veg_okra_origin: "Africa",
+    veg_okra_origin: "India",
     veg_okra_season: "Summer – Monsoon",
     veg_okra_use: "Fry, Shaak",
 
     /* BOTTLE GOURD */
     veg_bottlegourd_name: "Bottle Gourd",
     veg_bottlegourd_desc: "Light and nutritious vegetable.",
-    veg_bottlegourd_origin: "Africa",
+    veg_bottlegourd_origin: "India",
     veg_bottlegourd_season: "Summer",
     veg_bottlegourd_use: "Shaak, Dal",
 
@@ -109,7 +109,7 @@ const translations = {
     /* CLUSTER BEANS */
     veg_clusterbeans_name: "Cluster Beans",
     veg_clusterbeans_desc: "Popular in Kathiyawadi dishes.",
-    veg_clusterbeans_origin: "Africa",
+    veg_clusterbeans_origin: "India",
     veg_clusterbeans_season: "Monsoon",
     veg_clusterbeans_use: "Shaak",
 
@@ -123,14 +123,14 @@ const translations = {
     /* CABBAGE */
     veg_cabbage_name: "Cabbage",
     veg_cabbage_desc: "Crunchy vegetable widely used in cities.",
-    veg_cabbage_origin: "Europe",
+    veg_cabbage_origin: "India",
     veg_cabbage_season: "Winter",
     veg_cabbage_use: "Sabzi, Salad",
 
     /* CAULIFLOWER */
     veg_cauliflower_name: "Cauliflower",
     veg_cauliflower_desc: "Winter favorite vegetable.",
-    veg_cauliflower_origin: "Mediterranean",
+    veg_cauliflower_origin: "India",
     veg_cauliflower_season: "Winter",
     veg_cauliflower_use: "Curry",
 
@@ -138,28 +138,28 @@ const translations = {
     /* CARROT */
     veg_carrot_name: "Carrot",
     veg_carrot_desc: "Sweet and crunchy root vegetable.",
-    veg_carrot_origin: "Central Asia",
+    veg_carrot_origin: "India",
     veg_carrot_season: "Winter",
     veg_carrot_use: "Salad, Sabzi",
 
     /* RADISH */
     veg_radish_name: "Radish",
     veg_radish_desc: "Sharp flavored root vegetable.",
-    veg_radish_origin: "Asia",
+    veg_radish_origin: "India",
     veg_radish_season: "Winter",
     veg_radish_use: "Sabzi",
 
     /* BEETROOT */
     veg_beetroot_name: "Beetroot",
     veg_beetroot_desc: "Rich in iron and nutrients.",
-    veg_beetroot_origin: "Mediterranean",
+    veg_beetroot_origin: "India",
     veg_beetroot_season: "Winter",
     veg_beetroot_use: "Salad, Sabzi",
 
     /* SPINACH */
     veg_spinach_name: "Spinach",
     veg_spinach_desc: "Leafy vegetable rich in iron.",
-    veg_spinach_origin: "Persia",
+    veg_spinach_origin: "India",
     veg_spinach_season: "Winter",
     veg_spinach_use: "Shaak",
 
@@ -173,21 +173,21 @@ const translations = {
     /* CORIANDER */
     veg_coriander_name: "Coriander",
     veg_coriander_desc: "Used for flavor and garnish.",
-    veg_coriander_origin: "Mediterranean",
+    veg_coriander_origin: "India",
     veg_coriander_season: "Winter",
     veg_coriander_use: "Garnish",
 
     /* GREEN PEAS */
     veg_greenpeas_name: "Green Peas",
     veg_greenpeas_desc: "Sweet winter vegetable.",
-    veg_greenpeas_origin: "Central Asia",
+    veg_greenpeas_origin: "India",
     veg_greenpeas_season: "Winter",
     veg_greenpeas_use: "Curry",
 
     /* FRENCH BEANS */
     veg_frenchbeans_name: "French Beans",
     veg_frenchbeans_desc: "Long green vegetable used in sabzi.",
-    veg_frenchbeans_origin: "Central America",
+    veg_frenchbeans_origin: "India",
     veg_frenchbeans_season: "Winter",
     veg_frenchbeans_use: "Sabzi",
 
@@ -201,14 +201,14 @@ const translations = {
     /* PUMPKIN */
     veg_pumpkin_name: "Pumpkin",
     veg_pumpkin_desc: "Sweet vegetable used in many dishes.",
-    veg_pumpkin_origin: "North America",
+    veg_pumpkin_origin: "India",
     veg_pumpkin_season: "Winter",
     veg_pumpkin_use: "Shaak",
 
     /* SWEET CORN */
     veg_sweetcorn_name: "Sweet Corn",
     veg_sweetcorn_desc: "Popular as snack and cooking.",
-    veg_sweetcorn_origin: "America",
+    veg_sweetcorn_origin: "India",
     veg_sweetcorn_season: "Monsoon",
     veg_sweetcorn_use: "Boil, Curry",
 
@@ -222,21 +222,21 @@ const translations = {
     /* RAW BANANA */
     veg_rawbanana_name: "Raw Banana",
     veg_rawbanana_desc: "Common in Kathiyawadi food.",
-    veg_rawbanana_origin: "Southeast Asia",
+    veg_rawbanana_origin: "India",
     veg_rawbanana_season: "All Year",
     veg_rawbanana_use: "Curry",
 
     /* TURNIP */
     veg_turnip_name: "Turnip",
     veg_turnip_desc: "Winter root vegetable.",
-    veg_turnip_origin: "Europe",
+    veg_turnip_origin: "India",
     veg_turnip_season: "Winter",
     veg_turnip_use: "Sabzi",
 
     /* SPRING ONION */
     veg_springonion_name: "Spring Onion",
     veg_springonion_desc: "Used for flavor and garnish.",
-    veg_springonion_origin: "Asia",
+    veg_springonion_origin: "India",
     veg_springonion_season: "Winter",
     veg_springonion_use: "Garnish",
 
@@ -309,95 +309,83 @@ const translations = {
     fruit_fig_desc: "Nutritious fruit used fresh and dry.",
 
 
-    agri_wheat_name: "Wheat",
-    agri_wheat_desc: "Staple food, mainly used for rotis and khichdi.",
-    agri_wheat_origin: "India",
-    agri_wheat_season: "Rabi",
-    agri_wheat_use: "Roti, Khichdi",
 
-    agri_rice_name: "Rice",
-    agri_rice_desc: "Main staple, widely consumed in Gujarat.",
-    agri_rice_origin: "India",
-    agri_rice_season: "Kharif",
-    agri_rice_use: "Cooked Rice, Idli, Khichdi",
+    label_origin: "Origin:",
+    label_season: "Season:",
+    label_use: "Use:",
 
-    agri_maize_name: "Maize / Corn",
-    agri_maize_desc: "Used for flour, snacks, and animal feed.",
-    agri_maize_origin: "India",
-    agri_maize_season: "Kharif",
-    agri_maize_use: "Flour, Snacks, Feed",
-
-    agri_bajra_name: "Bajra / Pearl Millet",
-    agri_bajra_desc: "Drought-resistant staple grain.",
-    agri_bajra_origin: "India",
-    agri_bajra_season: "Kharif",
-    agri_bajra_use: "Roti, Porridge",
-
-    agri_jowar_name: "Jowar / Sorghum",
-    agri_jowar_desc: "Used for rotis and porridge.",
-    agri_jowar_origin: "India",
-    agri_jowar_season: "Kharif",
-    agri_jowar_use: "Roti, Porridge",
-
-    agri_ragi_name: "Ragi / Finger Millet",
-    agri_ragi_desc: "Nutritious cereal for rotis and porridge.",
-    agri_ragi_origin: "India",
-    agri_ragi_season: "Kharif",
-    agri_ragi_use: "Roti, Porridge",
-
-    agri_barley_name: "Barley",
-    agri_barley_desc: "Used for food and fodder.",
-    agri_barley_origin: "India",
-    agri_barley_season: "Rabi",
-    agri_barley_use: "Food, Fodder",
-
-    agri_moong_name: "Green Gram / Moong",
-    agri_moong_desc: "Pulse crop, rich in protein.",
-    agri_moong_origin: "India",
-    agri_moong_season: "Kharif",
-    agri_moong_use: "Dal, Sprouts",
-
-    agri_urad_name: "Black Gram / Urad",
-    agri_urad_desc: "Used in dal and fermented foods.",
-    agri_urad_origin: "India",
-    agri_urad_season: "Kharif",
-    agri_urad_use: "Dal, Idli, Dhokla",
-
-    agri_chickpea_name: "Chickpea / Gram",
-    agri_chickpea_desc: "Rabi pulse, commonly used in curries.",
-    agri_chickpea_origin: "India",
-    agri_chickpea_season: "Rabi",
-    agri_chickpea_use: "Dal, Snacks",
-
-    agri_soybean_name: "Soybean",
-    agri_soybean_desc: "Protein-rich Kharif crop.",
-    agri_soybean_origin: "India",
-    agri_soybean_season: "Kharif",
-    agri_soybean_use: "Oil, Protein-rich food",
-
-    agri_groundnut_name: "Groundnut / Peanut",
-    agri_groundnut_desc: "Oilseed and popular snack crop.",
-    agri_groundnut_origin: "India",
-    agri_groundnut_season: "Kharif",
-    agri_groundnut_use: "Oil, Snacks",
-
-    agri_sesame_name: "Sesame / Til",
-    agri_sesame_desc: "Used for oil and traditional foods.",
-    agri_sesame_origin: "India",
-    agri_sesame_season: "Kharif",
-    agri_sesame_use: "Oil, Snacks",
-
-    agri_sunflower_name: "Sunflower",
-    agri_sunflower_desc: "Major oilseed crop in Gujarat.",
-    agri_sunflower_origin: "India",
-    agri_sunflower_season: "Kharif",
-    agri_sunflower_use: "Oil",
-
-    agri_cotton_name: "Cotton",
-    agri_cotton_desc: "Fiber crop, widely grown in Gujarat.",
+    agri_cotton_name: "Cotton Seeds",
+    agri_cotton_desc: "Major cash crop widely grown in Gujarat.",
     agri_cotton_origin: "India",
     agri_cotton_season: "Kharif",
-    agri_cotton_use: "Textiles"
+    agri_cotton_use: "Fiber & Textile",
+
+    agri_groundnut_name: "Groundnut Seeds",
+    agri_groundnut_desc: "Leading oilseed crop of Gujarat.",
+    agri_groundnut_origin: "India",
+    agri_groundnut_season: "Kharif",
+    agri_groundnut_use: "Oil & Food",
+
+    agri_bajra_name: "Pearl Millet (Bajra)",
+    agri_bajra_desc: "Drought-resistant cereal crop.",
+    agri_bajra_origin: "India",
+    agri_bajra_season: "Kharif",
+    agri_bajra_use: "Food & Fodder",
+
+    agri_maize_name: "Maize Seeds",
+    agri_maize_desc: "Used for grain, fodder and industry.",
+    agri_maize_origin: "India",
+    agri_maize_season: "Kharif",
+    agri_maize_use: "Grain & Feed",
+
+    agri_rice_name: "Paddy (Rice) Seeds",
+    agri_rice_desc: "Staple food crop grown in South Gujarat.",
+    agri_rice_origin: "India",
+    agri_rice_season: "Kharif",
+    agri_rice_use: "Staple Food",
+
+    agri_soybean_name: "Soybean Seeds",
+    agri_soybean_desc: "High protein oilseed crop.",
+    agri_soybean_origin: "India",
+    agri_soybean_season: "Kharif",
+    agri_soybean_use: "Oil & Protein",
+
+    agri_castor_name: "Castor Seeds",
+    agri_castor_desc: "Oilseed suitable for dry regions.",
+    agri_castor_origin: "India",
+    agri_castor_season: "Kharif",
+    agri_castor_use: "Industrial Oil",
+
+    agri_mustard_name: "Mustard Seeds",
+    agri_mustard_desc: "Major rabi oilseed crop.",
+    agri_mustard_origin: "India",
+    agri_mustard_season: "Rabi",
+    agri_mustard_use: "Oil & Spice",
+
+    agri_tur_name: "Tur (Pigeon Pea)",
+    agri_tur_desc: "Important pulse crop.",
+    agri_tur_origin: "India",
+    agri_tur_season: "Kharif",
+    agri_tur_use: "Dal",
+
+    agri_moong_name: "Moong (Green Gram)",
+    agri_moong_desc: "Short-duration pulse crop.",
+    agri_moong_origin: "India",
+    agri_moong_season: "Kharif / Summer",
+    agri_moong_use: "Dal & Sprouts",
+
+    agri_sesame_name: "Sesame (Til)",
+    agri_sesame_desc: "Traditional oilseed with export demand.",
+    agri_sesame_origin: "India",
+    agri_sesame_season: "Kharif",
+    agri_sesame_use: "Oil & Sweets",
+
+    agri_wheat_name: "Wheat Seeds",
+    agri_wheat_desc: "Major rabi cereal crop.",
+    agri_wheat_origin: "India",
+    agri_wheat_season: "Rabi",
+    agri_wheat_use: "Flour & Food"
+
 
   },
   hi: {
@@ -442,19 +430,19 @@ const translations = {
 
     veg_potato_name: "आलू",
     veg_potato_desc: "दैनिक उपयोग की बहुउपयोगी सब्ज़ी।",
-    veg_potato_origin: "दक्षिण अमेरिका",
+    veg_potato_origin: "भारत",
     veg_potato_season: "साल भर",
     veg_potato_use: "सब्ज़ी, तलना",
 
     veg_onion_name: "प्याज़",
     veg_onion_desc: "हर व्यंजन में स्वाद और खुशबू बढ़ाता है।",
-    veg_onion_origin: "मध्य एशिया",
+    veg_onion_origin: "भारत",
     veg_onion_season: "साल भर",
     veg_onion_use: "ग्रेवी, सलाद",
 
     veg_tomato_name: "टमाटर",
     veg_tomato_desc: "रसदार सब्ज़ी जो खाना और सलाद में उपयोग होती है।",
-    veg_tomato_origin: "दक्षिण अमेरिका",
+    veg_tomato_origin: "भारत",
     veg_tomato_season: "सर्दी – गर्मी",
     veg_tomato_use: "सब्ज़ी, सॉस",
 
@@ -466,13 +454,13 @@ const translations = {
 
     veg_okra_name: "भिंडी",
     veg_okra_desc: "स्वस्थ हरी सब्ज़ी।",
-    veg_okra_origin: "अफ्रीका",
+    veg_okra_origin: "भारत",
     veg_okra_season: "गर्मी – मानसून",
     veg_okra_use: "तलना, शाक",
 
     veg_bottlegourd_name: "लौकी",
     veg_bottlegourd_desc: "हल्की और पौष्टिक सब्ज़ी।",
-    veg_bottlegourd_origin: "अफ्रीका",
+    veg_bottlegourd_origin: "भारत",
     veg_bottlegourd_season: "गर्मी",
     veg_bottlegourd_use: "शाक, दाल",
 
@@ -496,7 +484,7 @@ const translations = {
 
     veg_clusterbeans_name: "ग्वार फली",
     veg_clusterbeans_desc: "काठियावाड़ी भोजन में लोकप्रिय।",
-    veg_clusterbeans_origin: "अफ्रीका",
+    veg_clusterbeans_origin: "भारत",
     veg_clusterbeans_season: "मानसून",
     veg_clusterbeans_use: "शाक",
 
@@ -508,38 +496,38 @@ const translations = {
 
     veg_cabbage_name: "पत्ता गोभी",
     veg_cabbage_desc: "कुरकुरी सर्दियों की सब्ज़ी।",
-    veg_cabbage_origin: "यूरोप",
+    veg_cabbage_origin: "भारत",
     veg_cabbage_season: "सर्दी",
     veg_cabbage_use: "सब्ज़ी, सलाद",
 
     veg_cauliflower_name: "फूल गोभी",
     veg_cauliflower_desc: "सर्दियों की पसंदीदा सब्ज़ी।",
-    veg_cauliflower_origin: "भूमध्यसागर",
+    veg_cauliflower_origin: "भारत",
     veg_cauliflower_season: "सर्दी",
     veg_cauliflower_use: "करी",
 
 
     veg_carrot_name: "गाजर",
     veg_carrot_desc: "मीठी और कुरकुरी जड़ वाली सब्ज़ी।",
-    veg_carrot_origin: "मध्य एशिया",
+    veg_carrot_origin: "भारत",
     veg_carrot_season: "सर्दी",
     veg_carrot_use: "सलाद, सब्ज़ी",
 
     veg_radish_name: "मूली",
     veg_radish_desc: "तीखे स्वाद वाली जड़ सब्ज़ी।",
-    veg_radish_origin: "एशिया",
+    veg_radish_origin: "भारत",
     veg_radish_season: "सर्दी",
     veg_radish_use: "सब्ज़ी",
 
     veg_beetroot_name: "चुकंदर",
     veg_beetroot_desc: "आयरन और पोषक तत्वों से भरपूर।",
-    veg_beetroot_origin: "भूमध्यसागर",
+    veg_beetroot_origin: "भारत",
     veg_beetroot_season: "सर्दी",
     veg_beetroot_use: "सलाद, सब्ज़ी",
 
     veg_spinach_name: "पालक",
     veg_spinach_desc: "आयरन से भरपूर पत्तेदार सब्ज़ी।",
-    veg_spinach_origin: "फारस",
+    veg_spinach_origin: "भारत",
     veg_spinach_season: "सर्दी",
     veg_spinach_use: "शाक",
 
@@ -551,19 +539,19 @@ const translations = {
 
     veg_coriander_name: "धनिया",
     veg_coriander_desc: "स्वाद और सजावट के लिए उपयोग होता है।",
-    veg_coriander_origin: "भूमध्यसागर",
+    veg_coriander_origin: "भारत",
     veg_coriander_season: "सर्दी",
     veg_coriander_use: "सजावट",
 
     veg_greenpeas_name: "हरी मटर",
     veg_greenpeas_desc: "मीठी सर्दियों की सब्ज़ी।",
-    veg_greenpeas_origin: "मध्य एशिया",
+    veg_greenpeas_origin: "भारत",
     veg_greenpeas_season: "सर्दी",
     veg_greenpeas_use: "करी",
 
     veg_frenchbeans_name: "फ्रेंच बीन्स",
     veg_frenchbeans_desc: "सब्ज़ी में उपयोग होने वाली लंबी हरी फली।",
-    veg_frenchbeans_origin: "मध्य अमेरिका",
+    veg_frenchbeans_origin: "भारत",
     veg_frenchbeans_season: "सर्दी",
     veg_frenchbeans_use: "सब्ज़ी",
 
@@ -575,13 +563,13 @@ const translations = {
 
     veg_pumpkin_name: "कद्दू",
     veg_pumpkin_desc: "मीठी सब्ज़ी जो कई व्यंजनों में उपयोग होती है।",
-    veg_pumpkin_origin: "उत्तरी अमेरिका",
+    veg_pumpkin_origin: "भारत",
     veg_pumpkin_season: "सर्दी",
     veg_pumpkin_use: "शाक",
 
     veg_sweetcorn_name: "स्वीट कॉर्न",
     veg_sweetcorn_desc: "नाश्ते और पकाने में लोकप्रिय।",
-    veg_sweetcorn_origin: "अमेरिका",
+    veg_sweetcorn_origin: "भारत",
     veg_sweetcorn_season: "मानसून",
     veg_sweetcorn_use: "उबालना, करी",
 
@@ -593,19 +581,19 @@ const translations = {
 
     veg_rawbanana_name: "कच्चा केला",
     veg_rawbanana_desc: "काठियावाड़ी भोजन में आम।",
-    veg_rawbanana_origin: "दक्षिण-पूर्व एशिया",
+    veg_rawbanana_origin: "भारत",
     veg_rawbanana_season: "साल भर",
     veg_rawbanana_use: "करी",
 
     veg_turnip_name: "शलगम",
     veg_turnip_desc: "सर्दियों की जड़ वाली सब्ज़ी।",
-    veg_turnip_origin: "यूरोप",
+    veg_turnip_origin: "भारत",
     veg_turnip_season: "सर्दी",
     veg_turnip_use: "सब्ज़ी",
 
     veg_springonion_name: "हरा प्याज़",
     veg_springonion_desc: "स्वाद और सजावट के लिए उपयोग।",
-    veg_springonion_origin: "एशिया",
+    veg_springonion_origin: "भारत",
     veg_springonion_season: "सर्दी",
     veg_springonion_use: "सजावट",
 
@@ -675,99 +663,83 @@ const translations = {
     fruit_fig_name: "अंजीर",
     fruit_fig_desc: "ताज़ा और सूखा दोनों रूप में उपयोग होने वाला पौष्टिक फल।",
 
-     label_origin: "उत्पत्ति:",
+    label_origin: "उत्पत्ति:",
     label_season: "मौसम:",
-    label_use: "सर्वोत्तम उपयोग:",
+    label_use: "उपयोग:",
 
-    agri_wheat_name: "गेहूं",
-    agri_wheat_desc: "मुख्य आहार, मुख्य रूप से रोटी और खिचड़ी के लिए उपयोग किया जाता है।",
-    agri_wheat_origin: "भारत",
-    agri_wheat_season: "रबी",
-    agri_wheat_use: "रोटी, खिचड़ी",
-
-    agri_rice_name: "चावल",
-    agri_rice_desc: "मुख्य भोजन, गुजरात में व्यापक रूप से खाया जाता है।",
-    agri_rice_origin: "भारत",
-    agri_rice_season: "खरीफ",
-    agri_rice_use: "पकाया चावल, इडली, खिचड़ी",
-
-    agri_maize_name: "मक्का",
-    agri_maize_desc: "आटे, स्नैक्स और पशु आहार के लिए उपयोग किया जाता है।",
-    agri_maize_origin: "भारत",
-    agri_maize_season: "खरीफ",
-    agri_maize_use: "आटा, स्नैक्स, फीड",
-
-    agri_bajra_name: "बाजरा",
-    agri_bajra_desc: "सूखा-प्रतिरोधी मुख्य अनाज।",
-    agri_bajra_origin: "भारत",
-    agri_bajra_season: "खरीफ",
-    agri_bajra_use: "रोटी, दलिया",
-
-    agri_jowar_name: "ज्वार",
-    agri_jowar_desc: "रोटी और दलिया बनाने में इस्तेमाल।",
-    agri_jowar_origin: "भारत",
-    agri_jowar_season: "खरीफ",
-    agri_jowar_use: "रोटी, दलिया",
-
-    agri_ragi_name: "रागी",
-    agri_ragi_desc: "पोषक अनाज, रोटी और दलिया के लिए।",
-    agri_ragi_origin: "भारत",
-    agri_ragi_season: "खरीफ",
-    agri_ragi_use: "रोटी, दलिया",
-
-    agri_barley_name: "जौ",
-    agri_barley_desc: "भोजन और चारा दोनों में उपयोग।",
-    agri_barley_origin: "भारत",
-    agri_barley_season: "रबी",
-    agri_barley_use: "भोजन, चारा",
-
-    agri_moong_name: "मूंग",
-    agri_moong_desc: "दाल की फसल, प्रोटीन में समृद्ध।",
-    agri_moong_origin: "भारत",
-    agri_moong_season: "खरीफ",
-    agri_moong_use: "दाल, अंकुरित",
-
-    agri_urad_name: "उड़द",
-    agri_urad_desc: "दाल और खमीर वाले भोजन में इस्तेमाल।",
-    agri_urad_origin: "भारत",
-    agri_urad_season: "खरीफ",
-    agri_urad_use: "दाल, इडली, ढोकला",
-
-    agri_chickpea_name: "चना",
-    agri_chickpea_desc: "रबी की दाल, करी में सामान्य उपयोग।",
-    agri_chickpea_origin: "भारत",
-    agri_chickpea_season: "रबी",
-    agri_chickpea_use: "दाल, स्नैक्स",
-
-    agri_soybean_name: "सोयाबीन",
-    agri_soybean_desc: "प्रोटीन से भरपूर खरीफ फसल।",
-    agri_soybean_origin: "भारत",
-    agri_soybean_season: "खरीफ",
-    agri_soybean_use: "तेल, प्रोटीन युक्त भोजन",
-
-    agri_groundnut_name: "मूँगफली",
-    agri_groundnut_desc: "तेल वाली और लोकप्रिय स्नैक्स की फसल।",
-    agri_groundnut_origin: "भारत",
-    agri_groundnut_season: "खरीफ",
-    agri_groundnut_use: "तेल, स्नैक्स",
-
-    agri_sesame_name: "तिल",
-    agri_sesame_desc: "तेल और पारंपरिक भोजन में उपयोग।",
-    agri_sesame_origin: "भारत",
-    agri_sesame_season: "खरीफ",
-    agri_sesame_use: "तेल, स्नैक्स",
-
-    agri_sunflower_name: "सूरजमुखी",
-    agri_sunflower_desc: "गुजरात में मुख्य तेल फसल।",
-    agri_sunflower_origin: "भारत",
-    agri_sunflower_season: "खरीफ",
-    agri_sunflower_use: "तेल",
-
-    agri_cotton_name: "कपास",
-    agri_cotton_desc: "रेशा वाली फसल, गुजरात में व्यापक रूप से उगाई जाती है।",
+    agri_cotton_name: "कपास के बीज",
+    agri_cotton_desc: "गुजरात की प्रमुख नकदी फसल।",
     agri_cotton_origin: "भारत",
     agri_cotton_season: "खरीफ",
-    agri_cotton_use: "वस्त्र"
+    agri_cotton_use: "रेशा व वस्त्र",
+
+    agri_groundnut_name: "मूंगफली के बीज",
+    agri_groundnut_desc: "गुजरात की प्रमुख तिलहन फसल।",
+    agri_groundnut_origin: "भारत",
+    agri_groundnut_season: "खरीफ",
+    agri_groundnut_use: "तेल व खाद्य",
+
+    agri_bajra_name: "बाजरा",
+    agri_bajra_desc: "सूखा सहनशील अनाज फसल।",
+    agri_bajra_origin: "भारत",
+    agri_bajra_season: "खरीफ",
+    agri_bajra_use: "भोजन व चारा",
+
+    agri_maize_name: "मक्का के बीज",
+    agri_maize_desc: "अनाज व पशु आहार हेतु उपयोगी।",
+    agri_maize_origin: "भारत",
+    agri_maize_season: "खरीफ",
+    agri_maize_use: "अनाज व चारा",
+
+    agri_rice_name: "धान के बीज",
+    agri_rice_desc: "मुख्य खाद्य फसल।",
+    agri_rice_origin: "भारत",
+    agri_rice_season: "खरीफ",
+    agri_rice_use: "मुख्य भोजन",
+
+    agri_soybean_name: "सोयाबीन के बीज",
+    agri_soybean_desc: "उच्च प्रोटीन तिलहन फसल।",
+    agri_soybean_origin: "भारत",
+    agri_soybean_season: "खरीफ",
+    agri_soybean_use: "तेल व प्रोटीन",
+
+    agri_castor_name: "अरंडी के बीज",
+    agri_castor_desc: "शुष्क क्षेत्रों हेतु उपयुक्त।",
+    agri_castor_origin: "भारत",
+    agri_castor_season: "खरीफ",
+    agri_castor_use: "औद्योगिक तेल",
+
+    agri_mustard_name: "सरसों के बीज",
+    agri_mustard_desc: "रबी की प्रमुख तिलहन फसल।",
+    agri_mustard_origin: "भारत",
+    agri_mustard_season: "रबी",
+    agri_mustard_use: "तेल व मसाले",
+
+    agri_tur_name: "तूर (अरहर)",
+    agri_tur_desc: "महत्वपूर्ण दाल फसल।",
+    agri_tur_origin: "भारत",
+    agri_tur_season: "खरीफ",
+    agri_tur_use: "दाल",
+
+    agri_moong_name: "मूंग",
+    agri_moong_desc: "कम अवधि की दाल फसल।",
+    agri_moong_origin: "भारत",
+    agri_moong_season: "खरीफ / ग्रीष्म",
+    agri_moong_use: "दाल व अंकुर",
+
+    agri_sesame_name: "तिल",
+    agri_sesame_desc: "पारंपरिक तिलहन फसल।",
+    agri_sesame_origin: "भारत",
+    agri_sesame_season: "खरीफ",
+    agri_sesame_use: "तेल व मिठाई",
+
+    agri_wheat_name: "गेहूं के बीज",
+    agri_wheat_desc: "रबी की प्रमुख अनाज फसल।",
+    agri_wheat_origin: "भारत",
+    agri_wheat_season: "रबी",
+    agri_wheat_use: "आटा व भोजन"
+
+
   },
   gu: {
     home: "હોમ",
@@ -810,19 +782,19 @@ const translations = {
 
     veg_potato_name: "બટાટા",
     veg_potato_desc: "દૈનિક ઉપયોગમાં આવતું મુખ્ય શાક.",
-    veg_potato_origin: "દક્ષિણ અમેરિકા",
+    veg_potato_origin: "ભારત",
     veg_potato_season: "સંપૂર્ણ વર્ષ",
     veg_potato_use: "શાક, તળવું",
 
     veg_onion_name: "ડુંગળી",
     veg_onion_desc: "દરેક વાનગીમાં સ્વાદ ઉમેરે છે.",
-    veg_onion_origin: "મધ્ય એશિયા",
+    veg_onion_origin: "ભારત",
     veg_onion_season: "સંપૂર્ણ વર્ષ",
     veg_onion_use: "શાકનો આધાર, સલાડ",
 
     veg_tomato_name: "ટામેટા",
     veg_tomato_desc: "રસોઈ અને સલાડમાં વપરાતું રસદાર શાક.",
-    veg_tomato_origin: "દક્ષિણ અમેરિકા",
+    veg_tomato_origin: "ભારત",
     veg_tomato_season: "શિયાળો – ઉનાળો",
     veg_tomato_use: "શાક, સોસ",
 
@@ -834,13 +806,13 @@ const translations = {
 
     veg_okra_name: "ભીંડા",
     veg_okra_desc: "સ્વસ્થ લીલું શાક.",
-    veg_okra_origin: "આફ્રિકા",
+    veg_okra_origin: "ભારત",
     veg_okra_season: "ઉનાળો – વરસાદ",
     veg_okra_use: "તળવું, શાક",
 
     veg_bottlegourd_name: "દૂધી",
     veg_bottlegourd_desc: "હલકું અને પોષક શાક.",
-    veg_bottlegourd_origin: "આફ્રિકા",
+    veg_bottlegourd_origin: "ભારત",
     veg_bottlegourd_season: "ઉનાળો",
     veg_bottlegourd_use: "શાક, દાળ",
 
@@ -864,7 +836,7 @@ const translations = {
 
     veg_clusterbeans_name: "ગવાર",
     veg_clusterbeans_desc: "કાઠિયાવાડી ભોજનમાં લોકપ્રિય.",
-    veg_clusterbeans_origin: "આફ્રિકા",
+    veg_clusterbeans_origin: "ભારત",
     veg_clusterbeans_season: "વરસાદ",
     veg_clusterbeans_use: "શાક",
 
@@ -876,38 +848,38 @@ const translations = {
 
     veg_cabbage_name: "કોબી",
     veg_cabbage_desc: "કરકશ શિયાળાનું શાક.",
-    veg_cabbage_origin: "યુરોપ",
+    veg_cabbage_origin: "ભારત",
     veg_cabbage_season: "શિયાળો",
     veg_cabbage_use: "શાક, સલાડ",
 
     veg_cauliflower_name: "ફુલકોબી",
     veg_cauliflower_desc: "શિયાળાનું લોકપ્રિય શાક.",
-    veg_cauliflower_origin: "મેડિટેરેનિયન",
+    veg_cauliflower_origin: "ભારત",
     veg_cauliflower_season: "શિયાળો",
     veg_cauliflower_use: "કરી",
 
 
     veg_carrot_name: "ગાજર",
     veg_carrot_desc: "મીઠી અને કરકશ મૂળ શાકભાજી.",
-    veg_carrot_origin: "મધ્ય એશિયા",
+    veg_carrot_origin: "ભારત",
     veg_carrot_season: "શિયાળો",
     veg_carrot_use: "સલાડ, શાક",
 
     veg_radish_name: "મૂળો",
     veg_radish_desc: "તીખા સ્વાદવાળું મૂળ શાક.",
-    veg_radish_origin: "એશિયા",
+    veg_radish_origin: "ભારત",
     veg_radish_season: "શિયાળો",
     veg_radish_use: "શાક",
 
     veg_beetroot_name: "બીટ",
     veg_beetroot_desc: "આયર્ન અને પોષક તત્વોથી ભરપૂર.",
-    veg_beetroot_origin: "મેડિટેરેનિયન",
+    veg_beetroot_origin: "ભારત",
     veg_beetroot_season: "શિયાળો",
     veg_beetroot_use: "સલાડ, શાક",
 
     veg_spinach_name: "પાલક",
     veg_spinach_desc: "આયર્નથી ભરપૂર પાંદડાવાળું શાક.",
-    veg_spinach_origin: "પર્શિયા",
+    veg_spinach_origin: "ભારત",
     veg_spinach_season: "શિયાળો",
     veg_spinach_use: "શાક",
 
@@ -919,19 +891,19 @@ const translations = {
 
     veg_coriander_name: "ધાણા",
     veg_coriander_desc: "સ્વાદ અને સજાવટ માટે ઉપયોગ થાય છે.",
-    veg_coriander_origin: "મેડિટેરેનિયન",
+    veg_coriander_origin: "ભારત",
     veg_coriander_season: "શિયાળો",
     veg_coriander_use: "સજાવટ",
 
     veg_greenpeas_name: "લીલા વટાણા",
     veg_greenpeas_desc: "મીઠું શિયાળાનું શાક.",
-    veg_greenpeas_origin: "મધ્ય એશિયા",
+    veg_greenpeas_origin: "ભારત",
     veg_greenpeas_season: "શિયાળો",
     veg_greenpeas_use: "કરી",
 
     veg_frenchbeans_name: "ફ્રેન્ચ બીન્સ",
     veg_frenchbeans_desc: "શાકમાં વપરાતું લાંબું લીલું શાક.",
-    veg_frenchbeans_origin: "મધ્ય અમેરિકા",
+    veg_frenchbeans_origin: "ભારત",
     veg_frenchbeans_season: "શિયાળો",
     veg_frenchbeans_use: "શાક",
 
@@ -943,13 +915,13 @@ const translations = {
 
     veg_pumpkin_name: "કદૂ",
     veg_pumpkin_desc: "ઘણા વાનગીઓમાં વપરાતું મીઠું શાક.",
-    veg_pumpkin_origin: "ઉત્તર અમેરિકા",
+    veg_pumpkin_origin: "ભારત",
     veg_pumpkin_season: "શિયાળો",
     veg_pumpkin_use: "શાક",
 
     veg_sweetcorn_name: "સ્વીટ કોર્ન",
     veg_sweetcorn_desc: "નાસ્તા અને રસોઈમાં લોકપ્રિય.",
-    veg_sweetcorn_origin: "અમેરિકા",
+    veg_sweetcorn_origin: "ભારત",
     veg_sweetcorn_season: "વરસાદ",
     veg_sweetcorn_use: "ઉકાળવું, કરી",
 
@@ -961,19 +933,19 @@ const translations = {
 
     veg_rawbanana_name: "કાચો કેલો",
     veg_rawbanana_desc: "કાઠિયાવાડી ભોજનમાં સામાન્ય.",
-    veg_rawbanana_origin: "દક્ષિણપૂર્વ એશિયા",
+    veg_rawbanana_origin: "ભારત",
     veg_rawbanana_season: "સંપૂર્ણ વર્ષ",
     veg_rawbanana_use: "કરી",
 
     veg_turnip_name: "શલગમ",
     veg_turnip_desc: "શિયાળાનું મૂળ શાક.",
-    veg_turnip_origin: "યુરોપ",
+    veg_turnip_origin: "ભારત",
     veg_turnip_season: "શિયાળો",
     veg_turnip_use: "શાક",
 
     veg_springonion_name: "લીલું ડુંગળી",
     veg_springonion_desc: "સ્વાદ અને સજાવટ માટે.",
-    veg_springonion_origin: "એશિયા",
+    veg_springonion_origin: "ભારત",
     veg_springonion_season: "શિયાળો",
     veg_springonion_use: "સજાવટ",
 
@@ -1043,99 +1015,83 @@ const translations = {
     fruit_fig_name: "અંજીર",
     fruit_fig_desc: "તાજું અને સુકું બંને રૂપે ઉપયોગી પૌષ્ટિક ફળ.",
 
-    label_origin: "ઉત્પત્તિ:",
-    label_season: "મોસમ:",
-    label_use: "શ્રેષ્ઠ ઉપયોગ:",
+    label_origin: "ઉદ્ભવ:",
+  label_season: "ઋતુ:",
+  label_use: "ઉપયોગ:",
 
-    agri_wheat_name: "ઘઉં",
-    agri_wheat_desc: "મુખ્ય ભોજન, મુખ્યત્વે રોટલી અને ખિચડી માટે ઉપયોગ થાય છે.",
-    agri_wheat_origin: "ભારત",
-    agri_wheat_season: "રબિ",
-    agri_wheat_use: "રોટલી, ખિચડી",
+  agri_cotton_name: "કપાસના બીજ",
+  agri_cotton_desc: "ગુજરાતનો મુખ્ય નકદી પાક.",
+  agri_cotton_origin: "ભારત",
+  agri_cotton_season: "ખરિફ",
+  agri_cotton_use: "રેંશો અને કાપડ",
 
-    agri_rice_name: "ચોખા",
-    agri_rice_desc: "મુખ્ય ભોજન, ગુજરાતમાં વ્યાપકપણે ખાધા જાય છે.",
-    agri_rice_origin: "ભારત",
-    agri_rice_season: "ખરીફ",
-    agri_rice_use: "પકાવેલા ચોખા, ઈડલી, ખિચડી",
+  agri_groundnut_name: "મગફળીના બીજ",
+  agri_groundnut_desc: "ગુજરાતનો મુખ્ય તેલબીજ પાક.",
+  agri_groundnut_origin: "ભારત",
+  agri_groundnut_season: "ખરિફ",
+  agri_groundnut_use: "તેલ અને ખોરાક",
 
-    agri_maize_name: "મકાઈ",
-    agri_maize_desc: "આટો, નાસ્તા અને પશુઓ માટે ખોરાકમાં ઉપયોગ થાય છે.",
-    agri_maize_origin: "ભારત",
-    agri_maize_season: "ખરીફ",
-    agri_maize_use: "આટો, નાસ્તા, ખોરાક",
+  agri_bajra_name: "બાજરી",
+  agri_bajra_desc: "સૂકા વિસ્તારમાં યોગ્ય અનાજ પાક.",
+  agri_bajra_origin: "ભારત",
+  agri_bajra_season: "ખરિફ",
+  agri_bajra_use: "ખોરાક અને ચારો",
 
-    agri_bajra_name: "બાજરી",
-    agri_bajra_desc: "ભૂકંપ-પ્રતિકારક મુખ્ય અનાજ.",
-    agri_bajra_origin: "ભારત",
-    agri_bajra_season: "ખરીફ",
-    agri_bajra_use: "રોટલી, દાળિયા",
+  agri_maize_name: "મકાઈના બીજ",
+  agri_maize_desc: "અનાજ અને પશુઆહાર માટે ઉપયોગી.",
+  agri_maize_origin: "ભારત",
+  agri_maize_season: "ખરિફ",
+  agri_maize_use: "અનાજ અને ચારો",
 
-    agri_jowar_name: "જુવાર",
-    agri_jowar_desc: "રોટલી અને દાળિયા બનાવવા માટે ઉપયોગ થાય છે.",
-    agri_jowar_origin: "ભારત",
-    agri_jowar_season: "ખરીફ",
-    agri_jowar_use: "રોટલી, દાળિયા",
+  agri_rice_name: "ધાનના બીજ",
+  agri_rice_desc: "મુખ્ય ખોરાક પાક.",
+  agri_rice_origin: "ભારત",
+  agri_rice_season: "ખરિફ",
+  agri_rice_use: "મુખ્ય ખોરાક",
 
-    agri_ragi_name: "રાગી",
-    agri_ragi_desc: "પોષક અનાજ, રોટલી અને દાળિયા માટે.",
-    agri_ragi_origin: "ભારત",
-    agri_ragi_season: "ખરીફ",
-    agri_ragi_use: "રોટલી, દાળિયા",
+  agri_soybean_name: "સોયાબીનના બીજ",
+  agri_soybean_desc: "ઉચ્ચ પ્રોટીન ધરાવતો પાક.",
+  agri_soybean_origin: "ભારત",
+  agri_soybean_season: "ખરિફ",
+  agri_soybean_use: "તેલ અને પ્રોટીન",
 
-    agri_barley_name: "જૌ",
-    agri_barley_desc: "ખોરાક અને ચારો બંનેમાં ઉપયોગ.",
-    agri_barley_origin: "ભારત",
-    agri_barley_season: "રબિ",
-    agri_barley_use: "ખોરાક, ચારો",
+  agri_castor_name: "એરંડાના બીજ",
+  agri_castor_desc: "સૂકા વિસ્તારો માટે યોગ્ય પાક.",
+  agri_castor_origin: "ભારત",
+  agri_castor_season: "ખરિફ",
+  agri_castor_use: "ઔદ્યોગિક તેલ",
 
-    agri_moong_name: "મગ",
-    agri_moong_desc: "દાળની પાક, પ્રોટીનમાં સમૃદ્ધ.",
-    agri_moong_origin: "ભારત",
-    agri_moong_season: "ખરીફ",
-    agri_moong_use: "દાળ, અંકુરિત",
+  agri_mustard_name: "રાઈના બીજ",
+  agri_mustard_desc: "રવિ ઋતુનો તેલબીજ પાક.",
+  agri_mustard_origin: "ભારત",
+  agri_mustard_season: "રવિ",
+  agri_mustard_use: "તેલ અને મસાલા",
 
-    agri_urad_name: "ઉડદ",
-    agri_urad_desc: "દાળ અને ખમીરવાળા ભોજનમાં ઉપયોગ.",
-    agri_urad_origin: "ભારત",
-    agri_urad_season: "ખરીફ",
-    agri_urad_use: "દાળ, ઈડલી, ઢોકળા",
+  agri_tur_name: "તૂર",
+  agri_tur_desc: "મહત્વપૂર્ણ દાળ પાક.",
+  agri_tur_origin: "ભારત",
+  agri_tur_season: "ખરિફ",
+  agri_tur_use: "દાળ",
 
-    agri_chickpea_name: "ચણા",
-    agri_chickpea_desc: "રબિ દાળ, શાકમાં સામાન્ય ઉપયોગ.",
-    agri_chickpea_origin: "ભારત",
-    agri_chickpea_season: "રબિ",
-    agri_chickpea_use: "દાળ, નાસ્તા",
+  agri_moong_name: "મગ",
+  agri_moong_desc: "ઓછા સમયનો દાળ પાક.",
+  agri_moong_origin: "ભારત",
+  agri_moong_season: "ખરિફ / ઉનાળો",
+  agri_moong_use: "દાળ અને અંકુર",
 
-    agri_soybean_name: "સોયાબીન",
-    agri_soybean_desc: "પ્રોટીન સમૃદ્ધ ખરીફ પાક.",
-    agri_soybean_origin: "ભારત",
-    agri_soybean_season: "ખરીફ",
-    agri_soybean_use: "તેલ, પ્રોટીન",
+  agri_sesame_name: "તલ",
+  agri_sesame_desc: "પરંપરાગત તેલબીજ પાક.",
+  agri_sesame_origin: "ભારત",
+  agri_sesame_season: "ખરિફ",
+  agri_sesame_use: "તેલ અને મીઠાઈ",
 
-    agri_groundnut_name: "મગફળી",
-    agri_groundnut_desc: "તેલવાળી અને લોકપ્રિય નાસ્તાની પાક.",
-    agri_groundnut_origin: "ભારત",
-    agri_groundnut_season: "ખરીફ",
-    agri_groundnut_use: "તેલ, નાસ્તા",
+  agri_wheat_name: "ઘઉંના બીજ",
+  agri_wheat_desc: "રવિ ઋતુનો મુખ્ય અનાજ પાક.",
+  agri_wheat_origin: "ભારત",
+  agri_wheat_season: "રવિ",
+  agri_wheat_use: "લોટ અને ખોરાક"
 
-    agri_sesame_name: "તિલ",
-    agri_sesame_desc: "તેલ અને પરંપરાગત ભોજનમાં ઉપયોગ.",
-    agri_sesame_origin: "ભારત",
-    agri_sesame_season: "ખરીફ",
-    agri_sesame_use: "તેલ, નાસ્તા",
 
-    agri_sunflower_name: "સૂર્યમુખી",
-    agri_sunflower_desc: "ગુજરાતમાં મુખ્ય તેલ ફસલ.",
-    agri_sunflower_origin: "ભારત",
-    agri_sunflower_season: "ખરીફ",
-    agri_sunflower_use: "તેલ",
-
-    agri_cotton_name: "કપાસ",
-    agri_cotton_desc: "રેવા ફસલ, ગુજરાતમાં વ્યાપકપણે ઉગાડવામાં આવે છે.",
-    agri_cotton_origin: "ભારત",
-    agri_cotton_season: "ખરીફ",
-    agri_cotton_use: "કપાસ, કપડા"
   }
 };
 
